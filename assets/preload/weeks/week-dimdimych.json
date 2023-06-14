@@ -1,0 +1,32 @@
+{
+	"storyName": "VS DimDimych Dad",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "pp",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		200,
+		175,
+		30
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pencilcase",
+			"dimdad",
+			[
+				190,
+				145,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "dimdimych"
+}
