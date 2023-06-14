@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dim-i"
+		},
+		{
+			"offsets": [
+				10,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dim-l"
+		},
+		{
+			"offsets": [
+				27,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dim-d"
+		},
+		{
+			"offsets": [
+				-13,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dim-u"
+		},
+		{
+			"offsets": [
+				-27,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dim-r"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "dim-miss-l"
+		},
+		{
+			"offsets": [
+				26,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dim-miss-d"
+		},
+		{
+			"offsets": [
+				-28,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "dim-miss-r"
+		},
+		{
+			"offsets": [
+				-12,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "dim-miss-u"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "dim-i"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dim-skull",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "dim-skulspawn",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dim-skuloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dimdimych_assets",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "dimdimych",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		149,
+		123
+	],
+	"camera_position": [
+		180,
+		20
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

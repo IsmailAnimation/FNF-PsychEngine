@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dad-wanna",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wanna",
+			"fps": 24,
+			"name": "dad-wanna",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dimdad_dial",
+	"position": [
+		0,
+		-140
+	],
+	"healthicon": "dimdad",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		122,
+		45
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dad-i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dad-l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dad-d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dad-r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dad-u",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dimdad_assets",
+	"position": [
+		-150,
+		-300
+	],
+	"healthicon": "dimdad",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		122,
+		45
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
